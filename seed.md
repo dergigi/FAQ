@@ -1,7 +1,7 @@
-FAQ regarding bitcoin seeds.
+# FAQ Regarding Bitcoin Seeds
 By [6102bitcoin](https://twitter.com/6102bitcoin)
 
-# Index
+## Index
 
 1) [**The Basics**](#1-The-Basics)
 	- [Introduction](#Introduction)
