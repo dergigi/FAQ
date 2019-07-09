@@ -1,7 +1,7 @@
 # FAQ for Hodl Privacy
 By [6102bitcoin](https://twitter.com/6102bitcoin) 
 
-*Note: My [FAQ for Wasabi Wallet](https://github.com/6102bitcoin/FAQ/blob/master/wasabi.md) & [FAQ for Bitcoin Seeds](https://github.com/6102bitcoin/FAQ/blob/master/seed.md) are recommended reading if you are interested in privacy and security of your bitcoin.
+Note: My [FAQ for Wasabi Wallet](https://github.com/6102bitcoin/FAQ/blob/master/wasabi.md) & [FAQ for Bitcoin Seeds](https://github.com/6102bitcoin/FAQ/blob/master/seed.md) are recommended reading if you are interested in privacy and security of your bitcoin.
 This list is not comprehensive (please make a pull request for suggestions) and only addresses the ways that you could leak data about the bitcoin you **hodl**, there are many more ways that you could accidentally leak data when sending bitcoin which will be addressed in a separate guide.
 
 
