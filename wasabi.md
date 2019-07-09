@@ -1,16 +1,16 @@
-FAQ for [Wasabi Wallet](https://github.com/zkSNACKs/WalletWasabi)
+# FAQ for [Wasabi Wallet](https://github.com/zkSNACKs/WalletWasabi)
 By [6102bitcoin](https://twitter.com/6102bitcoin)
 
 Note: Many of these Q&A have been copied from real users, see footer for acknowledgements. 
 
-# Index
-- Pre-Install
-- Install
-- Pre-Mix
-- Mixing
-- Post-Mix
-- Meta
-- Acknowledgements
+## Index
+- [Pre-Install](#pre-install)
+- [Install](#install)
+- [Pre-Mix](#pre-mix)
+- [Mixing](#mixing)
+- [Post-Mix](#post-mix)
+- [Meta](#meta)
+- [Acknowledgements](#acknowledgements)
 
 # Pre-Install
 
