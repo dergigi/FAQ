@@ -47,7 +47,7 @@ You can turn off Tor in the Settings. Note that in this case you are still priva
 
 ### My wallet can't send to Bech32 addresses - what wallets can I use instead? 
 
-Wasabi generates Bech32 addresses only. These addresses start with the characters bc1... Some wallets/exchanges don't yet support this type of address and my give an error message (e.g. "unknown bitcoin address"). The solution is to manage your funds with a wallet which does support Bech32. Of [all the wallets](https://en.bitcoin.it/wiki/Bech32_adoption) that support Bech32, only the following wallets have Coin Control;
+Wasabi generates Bech32 addresses only. These addresses start with the characters `bc1`. Some wallets/exchanges don't yet support this type of address and my give an error message (e.g. "unknown bitcoin address"). The solution is to manage your funds with a wallet which does support Bech32. Of [all the wallets](https://en.bitcoin.it/wiki/Bech32_adoption) that support Bech32, only the following wallets have Coin Control:
 
 | Platform 						| Recommended 																					| Other										|
 | ---------						| -----------------------------------------------------	|------------------------	|
@@ -62,9 +62,9 @@ Be careful. If you send all your coins from an old wallet to a new wallet (from 
 
 ### What are the fees?
 
-You currently pay a fee of 0.003% * Anonymity set. If the coin anonymity set of a coin is 50 then you paid 0.003% * 50 (=0.15%). If you set the target anonymity set to 53 then wasabi will continue mixing until this is reached, so you may end up with an anonymity set of say 60, and you will pay 0.003% * 60 (=0.18%).
+You currently pay a fee of 0.003% per anonymity set. If the coin anonymity set of a coin is 50 then you paid 0.003% * 50 (=0.15%). If you set the target anonymity set to 53 then wasabi will continue mixing until this is reached, so you may end up with an anonymity set of say 60, and you will pay 0.003% * 60 (=0.18%).
 
-There are also edge cases where you don't pay the full fee or where you pay more. For example if you're the smallest registrant to a round, you'll never pay a fee. Also when you are remixing if you cannot pay the full fee with your input, then you only pay as much as you have, but if the change amount leftover would be too small, then that's also added to the fee. Currently the minimum change amount to be payed out is 0.7% of the base denomination (~0.1BTC.)  
+There are also edge cases where you don't pay the full fee or where you pay more. For example if you're the smallest registrant to a round, you'll never pay a fee. Also when you are remixing if you cannot pay the full fee with your input, then you only pay as much as you have, but if the change amount leftover would be too small, then that's also added to the fee. Currently the minimum change amount to be payed out is 0.7% of the base denomination (~0.1BTC).  
 
 It is also possible that you get more back from mixing than you put in. This happens when network fees go down from when the round started and when the round ended. In this case, the difference is split between the active outputs of the mix.
 
