@@ -1,9 +1,9 @@
-FAQ for [Whirlpool](https://github.com/Samourai-Wallet/Whirlpool)
+# FAQ for [Whirlpool](https://github.com/Samourai-Wallet/Whirlpool)
 By [6102bitcoin](https://twitter.com/6102bitcoin)
 
 Note: Many of these Q&A have been copied from real users, see footer for acknowledgements. 
 
-# Index
+## Index
 - [Overview](#overview)
 - [Pre-Install](#pre-install)
 	- [Who is behind Whirlpool?](#who-is-behind-whirlpool)
